@@ -1,0 +1,40 @@
+.info_div
+{
+	background:cornflowerblue;
+    float: none;
+    border-radius: 3px;
+}
+
+.header
+{
+	color:burlywood;font-family: 'Arial';
+    font-size: 45px;
+    letter-spacing: 10px;
+}
+
+.butter {
+    color:white;
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 3px;
+}
+
+.info {
+    color:bisque;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    letter-spacing:4px;
+}
+
+.queries {
+    color:cornsilk;
+    margin-bottom: 10px;
+}
+
+.container {
+    display:flex;
+    background-color:darkturquoise;
+    justify-content:center;
+}
+
+.login_div {
+    margin-left: 50px;
+}
